@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @redkeith
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning more about Linux
